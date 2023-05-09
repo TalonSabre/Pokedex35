@@ -13,5 +13,7 @@ I did not create most of the code for this app. It was made during a lesson intr
   
   - Card and Detail views can have two colors, one for each type (using a 'gradient')
 
+Fixed a couple issues and things that bugged me (5-09-2023).
+
 I'm not changing this app again anytime soon.
  It is here for reference and preservation.
