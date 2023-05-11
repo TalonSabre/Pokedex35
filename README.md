@@ -1,5 +1,3 @@
-# Pokedex35
-
 This app was made during my process of learning SwiftUI.
 
 I did not create most of the code for this app. It was made during a lesson introducing Firebase.
