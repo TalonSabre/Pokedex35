@@ -14,12 +14,10 @@ I did not create most of the code for this app. It was made during a lesson intr
 
 Fixed a couple issues and things that bugged me (5-9-2023).
 
-Screenshots
----
-
-[Dex](/Screenshots/pokedex.png)
-[Charizard Detail](/Screenshots/detail6.png)
-[Sandslash Detail](/Screenshots/detail28.png)
-
 I'm not changing this app again anytime soon.
  It is here for reference and preservation.
+
+Screenshots
+--
+
+<img src="/Screenshots/pokedex.png" width="26%" height="26%">  <img src="/Screenshots/detail6.png" width="25%" height="25%">  <img src="/Screenshots/detail28.png" width="25%" height="25%">
