@@ -17,7 +17,9 @@ Fixed a couple issues and things that bugged me (5-9-2023).
 Screenshots
 ---
 
-(Screenshots/pokedex.png) (Screenshots/detail6.png) (Screenshots/detail28.png)
+[Dex](/Screenshots/pokedex.png)
+[Charizard Detail](/Screenshots/detail6.png)
+[Sandslash Detail](/Screenshots/detail28.png)
 
 I'm not changing this app again anytime soon.
  It is here for reference and preservation.
