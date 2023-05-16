@@ -1,4 +1,4 @@
-This app was made during my process of learning SwiftUI.
+This app was made while learning SwiftUI.
 
 I did not create most of the code for this app. It was made during a lesson introducing Firebase.
 
