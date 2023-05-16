@@ -18,4 +18,4 @@ I'm not changing this app again anytime soon.
 Screenshots
 --
 
-<img src="/Screenshots/pokedex.png" width="26%" height="26%">  <img src="/Screenshots/detail6.png" width="25%" height="25%">  <img src="/Screenshots/detail28.png" width="25%" height="25%">
+<img src="/Screenshots/pokedex.png" width="25%" height="25%">  <img src="/Screenshots/detail6.png" width="24.8%" height="24.8%">  <img src="/Screenshots/detail28.png" width="25%" height="25%">
