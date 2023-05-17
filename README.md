@@ -1,5 +1,10 @@
 This app was made while learning SwiftUI.
 
+Interface code can be found in the .swift files in the [View](/ThePokedex/View) folder.
+
+Database code is located in [PokemonVM.swift](/ThePokedex/ViewModel/PokemonVM.swift).
+  Stored variables are in [PokemonData.swift](/ThePokedex/Model/PokemonData.swift).
+
 I did not create most of the code for this app. It was made during a lesson introducing Firebase.
 
   The things I implemented myself include:
